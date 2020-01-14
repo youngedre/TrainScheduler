@@ -9,3 +9,5 @@ Upon opening the app you will type in the data in question and simply hit "submi
 * moment.js
 * Google Firebase
 
+test out the train scheduler here: https://youngedre.github.io/TrainScheduler/
+
