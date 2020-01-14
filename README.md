@@ -6,5 +6,6 @@ Train Scheduler tracks trains travel plans, arrival and departure times and freq
 ## Demo
 Upon opening the app you will type in the data in question and simply hit "submit", this information will be stored in a live data base that will update and change refreshing the page. The data will present itself in an easy to read table for the user to follow and track their train.
 ## Technologies Used
-  *moment.js
-  *Google Firebase
+* moment.js
+* Google Firebase
+
